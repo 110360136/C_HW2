@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_code\\HW2\\3.17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94709FC8-A700-4640-B156-090E192337F6}|3.17\\3.17.vcxproj|D:\\c_code\\HW2\\3.17\\3.17\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94709FC8-A700-4640-B156-090E192337F6}|3.17\\3.17.vcxproj|solutionrelative:3.17\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\c_code\\HW2\\3.17\\3.17\\main.c",
+              "RelativeDocumentMoniker": "3.17\\main.c",
+              "ToolTip": "D:\\c_code\\HW2\\3.17\\3.17\\main.c",
+              "RelativeToolTip": "3.17\\main.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-22T13:49:10.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
